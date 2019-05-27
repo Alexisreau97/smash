@@ -1,0 +1,24 @@
+.background {
+	height: 100vh;
+	background: url(../img/heros.png) repeat center center fixed;
+	background-size: cover;
+	animation: scroll 60s linear infinite;
+}
+
+.logo {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+
+@keyframes scroll {
+	from {
+		background-position: 3672px 0px;
+	}
+	to {
+		background-position: 75px 0px;
+	}
+}
