@@ -4,11 +4,28 @@
 	margin-bottom: 5rem;
 }
 
+.embed-responsive {
+	position: relative;
+	right: 0; left: 0;
+	margin: auto;
+	box-shadow: 0 15px 20px 0 rgba(36,84,159,0.15);
+	border-radius: 1rem;
+	max-height: 506px;
+	max-width: 900px;
+	margin-bottom: 5rem;
+}
+
+.title {
+	color: #000;
+	font-size: 12vw;
+	font-weight: bold;
+}
+
 a:hover {
 	text-decoration: none;
 }
 
-.character_name {
+.fighter_name {
 	color: #fff;
 	font-size: 20px;
 	font-weight: bold;
@@ -18,7 +35,8 @@ a:hover {
 	padding-left: 2rem;
 }
 
-.character1 {
+.fighter1 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/mario.png) center center;
@@ -26,7 +44,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character2 {
+.fighter2 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/dk.png) center center;
@@ -34,7 +53,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character3 {
+.fighter3 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/link.png) center center;
@@ -42,7 +62,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character4 {
+.fighter4 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/samus.png) center center;
@@ -50,7 +71,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character5 {
+.fighter5 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/yoshi.png) center center;
@@ -58,7 +80,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character6 {
+.fighter6 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/kirby.png) center center;
@@ -66,7 +89,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character7 {
+.fighter7 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/fox.png) center center;
@@ -74,7 +98,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character8 {
+.fighter8 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/pikachu.png) center center;
@@ -82,7 +107,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character9 {
+.fighter9 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/luigi.png) center center;
@@ -90,7 +116,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character10 {
+.fighter10 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/ness.png) center center;
@@ -98,7 +125,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character11 {
+.fighter11 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/falcon.png) center center;
@@ -106,7 +134,8 @@ a:hover {
 	background-color: #000;
 }
 
-.character12 {
+.fighter12 {
+	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
 	background: url(../img/rondoudou.png) center center;

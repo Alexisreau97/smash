@@ -3,7 +3,6 @@
 	background: url(../img/heros.png) repeat center center fixed;
 	background-size: cover;
 	animation: scroll 60s linear infinite;
-	margin-bottom: 5rem;
 }
 
 .logo {
@@ -13,16 +12,6 @@
 	bottom: 0;
 	left: 0;
 	margin: auto;
-}
-
-.embed-responsive {
-	position: relative;
-	right: 0; left: 0;
-	margin: auto;
-	box-shadow: 0 15px 20px 0 rgba(36,84,159,0.15);
-	border-radius: 1rem;
-	max-height: 506px;
-	max-width: 900px;
 }
 
 @keyframes scroll {
