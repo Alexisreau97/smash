@@ -1,5 +1,115 @@
 .container {
 	overflow-x: hidden;
-	margin-top: 4rem;
-	margin-bottom: 4rem;
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.character_name {
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 0px 0px 8px rgba(0,0,0,0.8);
+	text-decoration: none;
+	padding-top: 2rem;
+	padding-left: 2rem;
+}
+
+.character1 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/mario.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character2 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/dk.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character3 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/link.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character4 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/samus.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character5 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/yoshi.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character6 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/kirby.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character7 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/fox.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character8 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/pikachu.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character9 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/luigi.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character10 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/ness.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character11 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/falcon.png) center center;
+	background-size: cover;
+	background-color: #000;
+}
+
+.character12 {
+	min-height: 94px;
+	max-width: 389px;
+	background: url(../img/rondoudou.png) center center;
+	background-size: cover;
+	background-color: #000;
 }
