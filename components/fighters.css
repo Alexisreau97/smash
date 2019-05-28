@@ -35,110 +35,131 @@ a:hover {
 	padding-left: 2rem;
 }
 
+.fighter_card {
+	transition: all .3s;
+	transform: right;
+}
+
+.fighter_card:hover {
+	opacity: .85;
+}
+
 .fighter1 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/mario.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/mario.png) no-repeat center center, 
+		url(../img/MarioSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter2 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/dk.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/dk.png) no-repeat center center,
+		url(../img/DKSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter3 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/link.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/link.png) no-repeat center center,
+		url(../img/ZeldaSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter4 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/samus.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/samus.png) no-repeat center center,
+		url(../img/MetroidSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter5 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/yoshi.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/yoshi.png) no-repeat center center,
+		url(../img/YoshiSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter6 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/kirby.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/kirby.png) no-repeat center center,
+		url(../img/KirbySymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter7 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/fox.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/fox.png) no-repeat center center,
+		url(../img/StarFoxSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter8 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/pikachu.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/pikachu.png) no-repeat center center,
+		url(../img/PokemonSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter9 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/luigi.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/luigi.png) no-repeat center center,
+		url(../img/MarioSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter10 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/ness.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/ness.png) no-repeat center center,
+		url(../img/EarthboundSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter11 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/falcon.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/falcon.png) no-repeat center center,
+		url(../img/FZeroSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
 
 .fighter12 {
 	border-radius: 1rem;
 	min-height: 94px;
 	max-width: 389px;
-	background: url(../img/rondoudou.png) center center;
-	background-size: cover;
-	background-color: #000;
+	background: 
+		url(../img/rondoudou.png) no-repeat center center,
+		url(../img/PokemonSymbol.svg) no-repeat left,
+		linear-gradient(to right, #333, #000);
 }
